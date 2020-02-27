@@ -1,0 +1,169 @@
+#header{
+    font-family: 'Lobster' ;
+    /* display: inline-block; */
+}
+body{
+    margin: auto 20%;
+}
+.main{
+    float:left;
+    margin-right: 70%;
+}
+#footer{
+    font-size: xx-small;
+    margin-top: 40px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkgray;
+}
+#choco-pizza{
+    margin: 0 auto;
+}
+h2{
+    position: relative;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+
+.top-left {
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: justify;
+    /* width: 100%; */
+    position: absolute;
+    top: 8px;
+    left: 50px;
+    color: black;
+  }
+
+  .in1{
+    text-decoration: line-through;
+    margin-right: 50px;
+  }
+  #img3{
+      display: inline;
+  }
+  #hrrr{
+    width: 805px;
+    height: 10px;
+    margin-top: 32px;
+  }
+  #Food{
+      margin-top: -15px;
+      color: gray;
+      font-size: large;
+  }
+  #cho{
+    font-family: 'Lobster';
+    font-family: 'Francois One' ;
+  }
+  #p3{
+      font-size: x-small;
+      margin-top: -23px;
+      color: darkgrey;
+  }
+  #Vane{
+    margin-left: 100px;
+    margin-top: -16px;
+  }
+.p1{
+    margin: 20px;
+    float: left;
+}
+#pp{
+    color: grey;
+}
+#ppp{
+    color: grey;
+}
+#pppp{
+    color: gray;
+}
+
+  .para{
+      margin-top: -22px;
+      font-size: XX-SMALL;
+      color: darkgrey;
+  }
+  .in2{
+    text-decoration: line-through;
+  }
+
+  #space{
+      margin-right: 15px;
+  }
+  
+.top-right {
+    padding-top: 10px;
+    font-size: 20px;
+    text-align: justify;
+    /* width: 45%; */
+    position: absolute;
+    top: 8px;
+    right: 50px;
+    color: black;
+  
+  }
+  .ul{
+
+    display: inline-block
+  }
+  .van{
+      float: left;
+      margin-top: 48px;
+  }
+  .icon{
+      float:right;
+  }
+  .head{
+      float: left;
+  }
+
+  :checked {
+    margin-left: 25px;
+    border: 1px solid blue;
+  }
+
+ .button {
+     background-color: rgb(117, 43, 0);
+     color:lightgray;
+     padding: 15px;
+     float: right;
+     margin-top: -68px;
+     margin-right: -87px;
+
+  }
+
+  #li1{
+    clear: both;
+    
+  }
+  #li2{
+    margin-top: 17px;
+      clear: both;
+      margin-left: 50%;
+  }
+  #li3{
+    margin-top: -20px;
+    clear: both;
+  }
+/* 
+   #hr1{
+display: inline-block;
+  }  */
+
+  #twit{
+      float:right;
+      margin-top: 32px;
+  }
